@@ -29,13 +29,13 @@ README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문�
 
 # `목차`
 
-<a name="size"></a> [__[1]글자 조절__](./tut/fisrt_font.md) <br/> 
+<a name="size"></a> [__[1]글자 조절__](./tut/1_font.md) <br/> 
 
 * 글자의 크기
 
 * 강조의 표시
 
-<a name="layout"></a> [__[2]서식 조절__](./tut/second_layout.md) <br/>
+<a name="layout"></a> [__[2]서식 조절__](./tut/2_layout.md) <br/>
 
 * 줄 띄우기
 
@@ -45,13 +45,13 @@ README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문�
 
 * 목록
 
-<a name="hyper"></a> [__[3] 하이퍼 링크__](./tut/third_hyper.md) <br/>
+<a name="hyper"></a> [__[3] 하이퍼 링크__](./tut/3_hyper.md) <br/>
 
 * 동일파일 내 문단 이동
 
 * 다른 사이트 이동
 
-<a name="image"></a> [__[4] 사진 첨부__](./tut/fourth_image.md) <br/>
+<a name="image"></a> [__[4] 사진 첨부__](./tut/4_image.md) <br/>
 
 * 웹사이트 사진 첨부
 
@@ -61,11 +61,11 @@ README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문�
 
 * 이미지에 하이퍼 링크 바인딩 하기
 
-<a name="code"></a> [__[5] 코드 첨부__](./tut/fifth_code.md) <br/>
+<a name="code"></a> [__[5] 코드 첨부__](./tut/5_code.md) <br/>
 
 * 코드 첨부
 
-<a name="table"></a> [__[6] 표 그리기__](./tut/sixth_diagram.md)
+<a name="table"></a> [__[6] 표 그리기__](./tut/6_diagram.md)
 
 * 표 그리기
 
