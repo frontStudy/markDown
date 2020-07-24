@@ -16,9 +16,10 @@
 ### __다른 사이트 이동__
 ```
 type 1('설명어' 클릭 시 URL로 이동) : [가장 좋아하는 축구선수가 누구니](https://www.youtube.com/watch?v=LNh4taC58Zs "마우스를 올리면 설명이 나옴")
+
 type 2('URL' 보여주고 연결) : <https://www.youtube.com/watch?v=LNh4taC58Zs>
 ```
-type 1('설명어' 클릭 시 URL로 이동) : [가장 좋아하는 축구선수가 누구니](https://www.youtube.com/watch?v=LNh4taC58Zs "마우스를 올리면 설명이 나옴") <br/>
+type 1('설명어' 클릭 시 URL로 이동) : [가장 좋아하는 축구선수가 누구니](https://www.youtube.com/watch?v=LNh4taC58Zs "마우스를 올리면 설명이 나옴") <br/> <br/>
 type 2('URL' 보여주고 연결) : <https://www.youtube.com/watch?v=LNh4taC58Zs>
 <br/>
 <br/>
