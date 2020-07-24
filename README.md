@@ -65,7 +65,7 @@ README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문�
 
 * 코드 첨부
 
-<a name="table"></a> [__[6] 표 그리기__](./tut/6_diagram.md)
+<a name="table"></a> [__[6] 표 그리기__](./tut/6_table.md)
 
 * 표 그리기
 
